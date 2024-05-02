@@ -1,2 +1,0 @@
-AKrFDt8n9va9uiqWK1rsmUusuFAJzCpP
-api.giphy.com/v1/gifs/search?api_key=AKrFDt8n9va9uiqWK1rsmUusuFAJzCpP&q=valorant
