@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 export const AddCategory = ({ onNewCategory }) => {
+  
   const [inputValue, setInputValue] = useState('');
 
   const onInputChange = ({ target }) => {
